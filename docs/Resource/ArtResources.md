@@ -1,16 +1,16 @@
-# 美术资源
+# 资源
 
 ![](https://wstatic-a1.233leyuan.com/productdocs/static/boxcnKOHfF61LEUAcfBGDB0mi1g.png)
 
-## 美术资源简介
+## 资源简介
 
-### 美术资源是什么
+### 资源是什么
 
 ```ts
 - 编辑器提供给开发者使用的模型、材质、贴图、特效、动作、声音等美术相关素材
 ```
 
-### 美术资源的应用场景
+### 资源的应用场景
 
 ```ts
 - 主编辑器运行时从本地资源库拖拽至视口或者对象管理器内
@@ -24,17 +24,17 @@
 
 ![](https://wstatic-a1.233leyuan.com/productdocs/static/boxcnVBcIzW21ImimJerhEO2Yyg.png)
 
-## 本地资源库使用指南
+## 资源库使用指南
 
-### 本地资源库展示
+### 资源库展示
 
 ```ts
-- 本地资源库常驻在编辑器主界面左侧
+- 资源库常驻在编辑器主界面左侧
 ```
 
 ![](https://wstatic-a1.233leyuan.com/productdocs/static/boxcntxWyYCUMS8Z4j7uGZ0Kuzc.png)
 
-### 本地资源库功能说明
+### 资源库功能说明
 
 ```ts
   - 默认状态下，所有美术资源都是未下载状态，需要左键点击下载资源
